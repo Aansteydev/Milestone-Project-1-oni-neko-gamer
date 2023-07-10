@@ -1,43 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500&family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 header {
-    margin:0;
+    margin: 0;
 }
-.row {
-    --bs-gutter-x: 1.5rem;
-    --bs-gutter-y: 0;
-    display: flex;
-    flex-wrap: nowrap;
-    margin-top: calc(-1 * var(--bs-gutter-y));
-    margin-right: calc(-.5 * var(--bs-gutter-x));
-    margin-left: calc(-.5 * var(--bs-gutter-x));
-    overflow:hidden;
-
+.logo{ /*needs editing previously 450px x 450px*/
+    height: 100%;
+    width: 150px;
 }
-#menu{
-    font-size: 110%;
-    list-style-type: none;
-    letter-spacing: 4px;
+.navbar-expand {
+    -sm|-md|-lg|-xl|-xxl
 }
-
-#menu li {
-    float: right;
-    margin: 30px;
-    
-}
-
-.logo {
-    background:url(../images/logo.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-    min-height: 360px;
-}
-/* add more changes to the buttons*/
-#button{
-    width:75%;
-    
-} 
-
-
-  
