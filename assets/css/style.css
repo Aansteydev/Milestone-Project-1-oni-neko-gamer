@@ -9,6 +9,12 @@ h1{
 body {
     background-color: #61777F;
 }
+#logo{ 
+    height: 500px;
+    width: 500px;
+    overflow: hidden;
+    margin: auto;
+}
 
 body p {
     color: white;
@@ -28,15 +34,6 @@ img {
     max-width: fit-content;
     height: auto;
 }
-
-.navbar-expand {
-    -sm|-md|-lg|-xl|-xxl
-}
-
-h1 {
-    margin-top: revert;
-    margin-bottom: 0.5rem;
-    font-weight: 700;
-    line-height: 1.2;
-    color: var(--bs-heading-color);
+.navbar-nav{
+    margin-left: 80%;       
 }
