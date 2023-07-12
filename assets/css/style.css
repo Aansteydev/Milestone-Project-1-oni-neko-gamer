@@ -3,10 +3,40 @@
 header {
     margin: 0;
 }
-.logo{ /*needs editing previously 450px x 450px*/
-    height: 100%;
-    width: 150px;
+h1{
+    text-align: center;
 }
+body {
+    background-color: #61777F;
+}
+
+body p {
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+}
+
+body .h1 {
+    color: #fafa03;
+    font-family: Roboto, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+img {
+    display: block;
+    max-width: fit-content;
+    height: auto;
+}
+
 .navbar-expand {
     -sm|-md|-lg|-xl|-xxl
+}
+
+h1 {
+    margin-top: revert;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--bs-heading-color);
 }
