@@ -7,11 +7,12 @@ header {
 body {
     background-color: #61777F;
 }
-#logo{ 
+
+#logo {
     height: 500px;
     width: 500px;
     overflow: hidden;
-    margin-left: 400px;
+    margin: auto;
 }
 
 body p {
@@ -27,33 +28,47 @@ body .h1 {
     font-style: italic;
     text-align: center;
 }
-body .h2{
-        color: #fafa03;
-        font-family: Roboto, sans-serif;
-        font-weight: 900;
-        font-style: italic;
-        text-align: center;
-    }
-body .h3{
-        color: #fafa03;
-            font-family: Roboto, sans-serif;
-            font-weight: 900;
-            font-style: italic;
-            text-align: center;
-        }
+
+body .h2 {
+    color: #fafa03;
+    font-family: Roboto, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+}
+
+body .h3 {
+    color: #fafa03;
+    font-family: Roboto, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+}
+
 body .h6 {
     color: #fafa03;
-        font-family: Roboto, sans-serif;
-        font-weight: 900;
-        font-style: italic;
-        text-align: center;
-    }
-            
+    font-family: Roboto, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+}
+
 img {
     display: block;
     max-width: fit-content;
     height: auto;
 }
-.navbar-nav{
-    margin-left: 80%;       
+
+.arcade {
+    display: block;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+    margin-bottom: 10px;
+    border-width: 5px;
+}
+
+.navbar-nav {
+    margin-left: 80%;
 }
