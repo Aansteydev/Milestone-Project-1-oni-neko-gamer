@@ -3,9 +3,7 @@
 header {
     margin: 0;
 }
-h1{
-    text-align: center;
-}
+
 body {
     background-color: #61777F;
 }
@@ -13,7 +11,7 @@ body {
     height: 500px;
     width: 500px;
     overflow: hidden;
-    margin: auto;
+    margin-left: 400px;
 }
 
 body p {
@@ -27,8 +25,30 @@ body .h1 {
     font-family: Roboto, sans-serif;
     font-weight: 900;
     font-style: italic;
+    text-align: center;
 }
-
+body .h2{
+        color: #fafa03;
+        font-family: Roboto, sans-serif;
+        font-weight: 900;
+        font-style: italic;
+        text-align: center;
+    }
+body .h3{
+        color: #fafa03;
+            font-family: Roboto, sans-serif;
+            font-weight: 900;
+            font-style: italic;
+            text-align: center;
+        }
+body .h6 {
+    color: #fafa03;
+        font-family: Roboto, sans-serif;
+        font-weight: 900;
+        font-style: italic;
+        text-align: center;
+    }
+            
 img {
     display: block;
     max-width: fit-content;
