@@ -9,8 +9,8 @@ body {
 }
 
 #logo {
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
     overflow: hidden;
     margin: auto;
 }
@@ -71,4 +71,25 @@ img {
 
 .navbar-nav {
     margin-left: 80%;
+}
+.nav-link:active .btn:hover {
+    color: #fafa03;
+    background-color: #61777F;
+}
+/*https: //stackoverflow.com/questions/8097744/how-do-i-center-this-form-in-css*/
+div.form {
+    display: block;
+    text-align: center;
+    color: #fafa03;
+}
+
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+#suggestion-box{
+    width: 480px;
+    height: 121px;
 }
