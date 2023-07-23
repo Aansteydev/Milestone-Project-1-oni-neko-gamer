@@ -13,6 +13,9 @@ body {
     width: 400px;
     overflow: hidden;
     margin: auto;
+    display: block;
+        max-width: fit-content;
+        height: auto;
 }
 
 body p {
@@ -53,7 +56,7 @@ body .h6 {
     text-align: center;
 }
 
-img {
+img  {
     display: block;
     max-width: fit-content;
     height: auto;
@@ -88,6 +91,7 @@ form {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    margin-left: 20%;
 }
 #suggestion-box{
     width: 480px;
