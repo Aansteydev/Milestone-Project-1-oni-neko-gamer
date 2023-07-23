@@ -120,3 +120,18 @@ width: auto;
         display: -webkit-box;
         margin-left: auto;
 }
+#hp { 
+    height: 200px;
+        width: auto;
+}
+
+#konami{
+    height: 200px;
+        width: 200px;
+        display: -webkit-box;
+        margin-left: auto;
+}
+#baroque{
+    height: 200px;
+        width: auto;
+}
