@@ -101,6 +101,10 @@ form {
 #sfexa{
     height:200px;
     width: 200px;
-    
-    
+}
+#fotnlp{
+    height: 200px;
+        width: 200px;
+        display: -webkit-box;
+        margin-left: auto;
 }
