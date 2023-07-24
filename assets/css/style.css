@@ -56,7 +56,7 @@ body .h6 {
     text-align: center;
 }
 
-img  {
+.img  {
     display: block;
     max-width: fit-content;
     height: auto;
@@ -93,6 +93,7 @@ form {
     text-align: left;
     margin-left: 20%;
 }
+
 #suggestion-box{
     width: 480px;
     height: 121px;
@@ -145,4 +146,8 @@ width: auto;
 {
     align-content: center center no-repeat;
     margin-left: 29%;
+}
+
+.bg-image{
+ height: auto;
 }

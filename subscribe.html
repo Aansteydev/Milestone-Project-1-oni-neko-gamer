@@ -9,6 +9,7 @@
     <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css"
         integrity="sha384-QYIZto+st3yW+o8+5OHfT6S482Zsvz2WfOzpFSXMF9zqeLcFV0/wlZpMtyFcZALm" crossorigin="anonymous">
+        <script src="https://kit.fontawesome.com/3ff9196d34.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <title>Oni Neko Gamer</title>
 </head>
@@ -25,21 +26,26 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                            <a class="nav-link active" aria-current="page" href="index.html"><i class="fa-solid fa-ghost fa-fade"
+                                    style="color: #f61313;"></i>Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="preview.html">Preview</a>
+                            <a class="nav-link active" aria-current="page" href="preview.html"><i class="fa-solid fa-ghost fa-fade"
+                                    style="color: #06f8f4;"></i>preview</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="subscribe.html">Subscribe</a>
+                            <a class="nav-link active" aria-current="page" href="subscribe.html"><i class="fa-solid fa-ghost fa-fade"
+                                    style="color: #ff97d0;"></i>Subscribe</a>
+                
                         </li>
                     </ul>
                     </li>
                     </ul>
                 </div>
-            </div>
+                </div>
         </nav>
         </nav>
     </header>
@@ -51,21 +57,30 @@
         <div class="form">
             <form>
                 <label for="fname">First name:</label><br>
-                <input type="text" id="fname" name="fname"><br>
+                <input type="text" id="fname" name="fname" required><br>
                 <label for="lname">Last name:</label><br>
-                <input type="text" id="lname" name="lname"><br>
+                <input type="text" id="lname" name="lname" required><br>
                 <label for="email">Email Address:</label><br>
-                <input type="email" id="email" name="email"><br>
+                <input type="email" id="email" name="email" required><br>
                 <label for="suggestion-box">Share your thoughts or ideas for articles!</label>
                 <br>
-                <textarea id="suggestion-box" name="suggestion-box"
-                rows="6" col="100"> Enter text here....</textarea><br><br>
+                <textarea id="suggestion-box" name="suggestion-box" rows="6"
+                    col="100"> Enter text here....</textarea><br><br>
                 <input type="submit" class="submit-btn" value="Subscribe!">
-                
             </form>
-        </div>      
-        
-    <div class="bg-image" style="
+        </div>
+
+
+        <div class="bg-image opacity-50" style="
         background-image: url('../assets/images/medleygames1.jpg');
-        height: 100vh;
-      "></div>
+        height:150vh;">
+        </div>
+
+        <footer class=" bg-light text-center text-lg-start">
+            <!-- Copyright -->
+            <div class="text-center p-3" style="background-color: rgb(250, 250, 3);">
+                © 2023 Copyright: Oni Neko Gamer
+            </div>
+            <!-- Copyright -->
+
+        </footer>
