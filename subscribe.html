@@ -29,15 +29,18 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="index.html"><i class="fa-solid fa-ghost fa-fade"
+                            <a class="nav-link active" aria-current="page" href="index.html">
+                                <i class="fa-solid fa-ghost "
                                     style="color: #f61313;"></i>Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="preview.html"><i class="fa-solid fa-ghost fa-fade"
-                                    style="color: #06f8f4;"></i>preview</a>
+                            <a class="nav-link active" aria-current="page" href="preview.html">
+                                <i class="fa-solid fa-ghost "
+                                    style="color: #06f8f4;"></i>Preview</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="subscribe.html"><i class="fa-solid fa-ghost fa-fade"
+                            <a class="nav-link active" aria-current="page" href="subscribe.html">
+                                <i class="fa-solid fa-ghost "
                                     style="color: #ff97d0;"></i>Subscribe</a>
                 
                         </li>
@@ -66,13 +69,62 @@
                 <br>
                 <textarea id="suggestion-box" name="suggestion-box" rows="6"
                     col="100"> Enter text here....</textarea><br><br>
-                <input type="submit" class="submit-btn" value="Subscribe!">
+                <!-- Trigger/Open The Modal -->
+                <button id="myBtn">Subscribe!</button>
+                
+                <!-- The Modal -->
+                <div id="myModal" class="modal">
+                
+                    <!-- Modal content -->
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <span class="close">&times;</span>
+                            <h2>Thanks for Subscribing!</h2>
+                        </div>
+                        <div class="modal-body">
+                            <p>Welcome to Oni Neko Gamer's blog!</p>
+                        </div>
+                        <div class="modal-footer">
+                            <h3>Oni Neko Gamer</h3>
+                        </div>
+                    </div>
+                <script>
+                    // Get the modal
+                    var modal = document.getElementById("myModal");
+
+                    // Get the button that opens the modal
+                    var btn = document.getElementById("myBtn");
+
+                    // Get the <span> element that closes the modal
+                    var span = document.getElementsByClassName("close")[0];
+
+                    // When the user clicks the button, open the modal 
+                    btn.onclick = function () {
+                        modal.style.display = "block";
+                    };
+
+                    // When the user clicks on <span> (x), close the modal
+                    span.onclick = function () {
+                        modal.style.display = "none";
+                    };
+
+                    // When the user clicks anywhere outside of the modal, close it
+                    window.onclick = function (event) {
+                        if (event.target == modal) {
+                            modal.style.display = "none";
+                        }
+                    }
+                </script>
+
+                </div>
+                
             </form>
         </div>
 
+        
+    
 
-        <div class="bg-image opacity-50" style="
-        background-image: url('../assets/images/medleygames1.jpg');
+        <div class="bg-image opacity-50" style="background-image: url('../assets/images/medleygames1.jpg');
         height:150vh;">
         </div>
 
