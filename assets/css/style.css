@@ -76,15 +76,18 @@ body .h6 {
     margin-left: 80%;
     
 }
-.nav-link:active .btn:hover {
+.nav-link:active a:hover{
     color: #fafa03;
-    background-color: #61777F;
 }
-.nav-link.active {
-    color: #fafa03;
-    
+#home:hover {
+    color:#f61313;
 }
-
+#preview:hover{
+    color: #06f8f4;
+}
+#subscribe:hover{
+    color:#ff97d0;
+}
 /*https: //stackoverflow.com/questions/8097744/how-do-i-center-this-form-in-css*/
 div.form {
     display: block;
