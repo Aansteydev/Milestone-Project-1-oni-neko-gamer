@@ -75,6 +75,8 @@ body .h6 {
 
 .navbar-nav {
     margin-left: 80%;
+    width:auto;
+    height: auto;
     
 }
 .nav-link:active a:hover{
@@ -146,10 +148,10 @@ width: auto;
         width: auto;
 }
 
-.embvideo /*looking good but could do with restyling to ensure that it is in the center*/
+.embed-responsive-item /*looking good but could do with restyling to ensure that it is in the center*/
 {
     align-content: center center no-repeat;
-    margin-left: 29%;
+    margin-left: 38%;
 }
 
 .bg-image{
