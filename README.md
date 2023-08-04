@@ -47,11 +47,12 @@ Oni Neko Gamer has recently ran a poll within its current reader base of around 
 
 ### Preview Page
 - Gives examples of the writers work.
+- Large logo in the same place on every page. 
 - Provides box art for the titles that have been reviewed.
 - Provides an embeded video https://www.youtube.com/embed/KfdSiRRUVSM.
 - Large image above the footer.
 #### __User Goal__
-- Be able to read some of the writers work.
+- Be able to read some of the writers previous work.
 - Understanding of the various regularly written columns.
 - View media that portrays the writers gaming interests.
 #### __Business Goal__
