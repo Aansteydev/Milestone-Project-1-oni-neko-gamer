@@ -110,11 +110,12 @@ body .h6 {
     padding-bottom: 5%;
     color: #fafa03;
     font-weight: 900;
-}
 
+}
 .form-row {
     display: flex;
     justify-content: space-between;
+    width: 100%;
 }
 
 #suggestion-box {
@@ -165,7 +166,7 @@ body .h6 {
 
 .embed-responsive-item
 
-/*looking good but could do with restyling to ensure that it is in the center*/
+/* (sfexa video)looking good but could do with restyling to ensure that it is in the center*/
     {
     align-content: center center no-repeat;
     margin-left: 38%;
