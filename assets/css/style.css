@@ -108,8 +108,8 @@ body .h6 {
     margin-right: 20%;
     padding-top: 5%;
     padding-bottom: 5%;
-        color: #fafa03;
-            font-weight: 900;
+    color: #fafa03;
+    font-weight: 900;
 }
 
 .form-row {
@@ -269,7 +269,7 @@ body .h6 {
 
 .modal-footer {
     padding: 2px 16px;
-    background-color: #61777F;
+    background-color: rgb(97, 119, 127);
     color: #ffffff;
 }
 
@@ -284,3 +284,27 @@ body .h6 {
     border-color: #f61313;
 }
 
+@media all and (max-width: 1368px) and (min-width: 376px) {
+    .text-break {
+        color: white;
+        font-family: Roboto, sans-serif;
+        font-weight: 300;
+        margin: 3px;
+        padding: 1px;
+    }
+}
+
+/* work on this*/
+@media all and (max-width: 1368px) and (min-width: 375px) {
+    .image-thumbnail-right {
+        height: 200px;
+        width: 200px;
+        display: flex;
+        align-items: right;
+        justify-content: center;
+        margin-left: auto;
+    }
+}
+.github-socials{
+    float: right;
+}
