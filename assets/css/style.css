@@ -129,11 +129,10 @@ body .h6 {
         width: 200px;
     }
 
-    #fotnlp {
+     #fotnlp {
         height: 200px;
         width: 200px;
-        display: -webkit-box;
-        margin-left: auto;
+        
     }
 
     #ff6 {
@@ -144,8 +143,6 @@ body .h6 {
     #ffg {
         height: 200px;
         width: 200px;
-        display: -webkit-box;
-        margin-left: auto;
     }
 
     #hp {
@@ -156,8 +153,6 @@ body .h6 {
     #konami {
         height: 200px;
         width: 200px;
-        display: -webkit-box;
-        margin-left: auto;
     }
 
     #baroque {
@@ -165,12 +160,13 @@ body .h6 {
         width: auto;
     }
 
-    @media screen and (min-width: 373px) and (max-width: 1368px) {
-        .embed-responsive-item
+    @media screen and (min-width: 373px) and (max-width: 1368px  !important) {
+        .embed-responsive-item 
         /* (sfexa video)looking good but could do with restyling to ensure that it is in the center*/
-
-            {
+        {   
             margin-left: 38%;
+            padding: 1px;
+            display: flex;
         }
     }
 
@@ -303,8 +299,8 @@ body .h6 {
             height: 200px;
             width: 200px;
             display: flex;
-            align-items: right;
-            justify-content: center;
+            align-items: flex-end;
+            justify-content: right;
             margin-left: auto;
         }
     }
