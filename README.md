@@ -1,7 +1,30 @@
+# Table of Contents
+1. [Overview]
+2. [UX]
+- [Scope]
+- [Requirements]
+- [Encourage Footfall]
+3. [Structure]
+- [Home Page]
+- [Preview Page]
+- [Subscribe Page]
+4. [Skeleton]
+- [Wireframes]
+5. [Surface]
+- [Logo]
+- [Colours]
+6. [Features]
+  - [Existing Features]
+  - [Navigation Bar]
+  - [Footer]
+  - [Subscription Form
+7. [Future Improvements]
+- [Form Submission]
+- [Security]
+    
 # Milestone Project One
 ## Video Game Blog - Oni Neko Gamer
 ---
-# Table of Contents
 ![Logo](assets/images/logo2.png)
 ---
 ### __Overview__
