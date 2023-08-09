@@ -1,8 +1,8 @@
 # Table of Contents
-1. [Overview]
-2. [UX]
-- [Scope]
-- [Requirements]
+1. [Overview] (#overview)
+2. [UX] (#ux)
+- [Scope] (#scope)
+- [Requirements] (#requirements)
 - [Encourage Footfall]
 3. [Structure]
 - [Home Page]
@@ -27,7 +27,7 @@
 ---
 ![Logo](assets/images/logo2.png)
 ---
-### __Overview__
+### __Overview__ 
 This project has been created as a way to promote a blog that is focused on Video Games, especially Japanese retro games. I am aiming to promote the gaming blog Oni Neko Gamer to a new audience of readers and contributors and to give potential customers an easy way to subscribe to the blog or to put in a request to contribute a piece of work for the blog.
 
 I have used two coding languages __HTML__ and __CSS__ to create this website.
