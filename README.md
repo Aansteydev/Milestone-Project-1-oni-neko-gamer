@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Overview] (https://github.com/Aansteydev/Milestone-Project-1-oni-neko-gamer#overview)
+1. [Overview] (doc:linking-to-pages#overview)
 2. [UX] (https://github.com/Aansteydev/Milestone-Project-1-oni-neko-gamer#ux)
 - [Scope] (#scope)
 - [Requirements] (#requirements)
