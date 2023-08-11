@@ -140,7 +140,7 @@ Currently upon completion of the form, no information is saved anywhere but inst
 The use of CAPTCHA protection will be implemented in the future to prevent bot attacks and spam this will be used for form submission.
 
 ---
-### --Technologies used--
+### __Technologies used__
 - This project was written in HTML5 and CSS with the aid of Bootstrap 5.
 - This project was written in Codeanywhere.
 - The project was debugged with Chrome Developer Tools.
