@@ -1,6 +1,6 @@
 # Table of Contents
-1. [Overview] (doc:linking-to-pages#overview)
-2. [UX] (https://github.com/Aansteydev/Milestone-Project-1-oni-neko-gamer#ux)
+1. [Overview] 
+2. [UX] (/Aansteydev/Milestone-Project-1-oni-neko-gamer#ux)
 - [Scope] (#scope)
 - [Requirements] (#requirements)
 - [Encourage Footfall]
@@ -37,9 +37,12 @@ I have used two coding languages __HTML__ and __CSS__ to create this website.
 ### __UX__
 Oni Neko Gamer has recently ran a poll within its current reader base of around 100 readers, with about 20 of them being the most avid readers on Wordpress where the blog is hosted currently. The questions that were posed to the polling group were based on how to get more footfall for the site which lead us to the suggestion that Oni Neko Gamer should be rewritten by using HTML and CSS to create a new, more proffessional look for the blog.
 ---
-## __Scope__
-
+### __Scope__
 ### __Requirements__
+##### __Encourage and allow user engagement__
+- To attain more readers to the blog.
+- The addition of reader submitted work.
+- Use of the form to communicate with the readers.
 
 ##### __Encourage Footfall__
 
@@ -95,6 +98,16 @@ Oni Neko Gamer has recently ran a poll within its current reader base of around 
 ### __Skeleton__
 #### __Wireframes__
 I have used the Balzamic application to create the wireframes for this project, however once I began to write the code for this project I realised that the layout was not going to work for my project so it has changed slightly in the final version.  
+##### __Balzamic Wireframe files__
+[Home page](https://github.com/Aansteydev/Milestone-Project-1-oni-neko-gamer/assets/137046660/75a029ad-0829-4f29-b3b1-0deea2a32eaa)
+
+[Preview](https://github.com/Aansteydev/Milestone-Project-1-oni-neko-gamer/assets/137046660/8e1819c5-b16a-4ed2-8388-b8d547628d78)
+
+[Subscribe](https://github.com/Aansteydev/Milestone-Project-1-oni-neko-gamer/assets/137046660/27ed654b-9e4a-4b2f-8b60-1bd6763ce5d9)
+
+
+
+
 
 ### __Surface__
 The aesthetical choices were made to give a feeling of nostalgia by invoking contrasting colors such as grey and yellow to create a visual representation of looking back on old and forgotten games with a renewed sense of reflection and knowledge of the subject matter.
