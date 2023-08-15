@@ -4,21 +4,21 @@
 - [Scope] (#scope)
 - [Requirements] (#requirements)
 - [Encourage Footfall]
-3. [Structure]
+1. [Structure]
 - [Home Page]
 - [Preview Page]
 - [Subscribe Page]
-4. [Skeleton]
+1. [Skeleton]
 - [Wireframes]
-5. [Surface]
+1. [Surface]
 - [Logo]
 - [Colours]
-6. [Features]
+1. [Features]
   - [Existing Features]
   - [Navigation Bar]
   - [Footer]
   - [Subscription Form
-7. [Future Improvements]
+2. [Future Improvements]
 - [Form Submission]
 - [Security]
     
