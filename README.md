@@ -1,15 +1,15 @@
 # Table of Contents
 1. [Overview] 
-2. [UX] (/Aansteydev/Milestone-Project-1-oni-neko-gamer#ux)
-- [Scope] (#scope)
-- [Requirements] (#requirements)
-- [Encourage Footfall]
-1. [Structure]
+2. [UX](#ux)
+   - [Scope] (#scope)
+   - [Requirements] (#requirements)
+   - [Encourage Footfall]
+3. [Structure]
 - [Home Page]
 - [Preview Page]
-- [Subscribe Page]
+- [Subscribe Page]  
 1. [Skeleton]
-- [Wireframes]
+- [Wireframes] 
 1. [Surface]
 - [Logo]
 - [Colours]
@@ -27,30 +27,30 @@
 ---
 ![Logo](assets/images/logo2.png)
 ---
-### __Overview__ 
+# __Overview__ 
 This project has been created as a way to promote a blog that is focused on Video Games, especially Japanese retro games. I am aiming to promote the gaming blog Oni Neko Gamer to a new audience of readers and contributors and to give potential customers an easy way to subscribe to the blog or to put in a request to contribute a piece of work for the blog.
 
 I have used two coding languages __HTML__ and __CSS__ to create this website.
 
 ---
 
-### __UX__
+# __UX__
 Oni Neko Gamer has recently ran a poll within its current reader base of around 100 readers, with about 20 of them being the most avid readers on Wordpress where the blog is hosted currently. The questions that were posed to the polling group were based on how to get more footfall for the site which lead us to the suggestion that Oni Neko Gamer should be rewritten by using HTML and CSS to create a new, more proffessional look for the blog.
 ---
-### __Scope__
-### __Requirements__
-##### __Encourage and allow user engagement__
+## __Scope__
+## __Requirements__
+## __Encourage and allow user engagement__
 - To attain more readers to the blog.
 - The addition of reader submitted work.
 - Use of the form to communicate with the readers.
 
-##### __Encourage Footfall__
+## __Encourage Footfall__
 
 - Clear detailed description about the blog and its contents on the first page
 - Improved visuals and layout to ensure that the user has an easy time navigating the blog
 - Promotional advertising will be used on forums and online gaming groups via social media
 
-##### __Convey Ethos and Purpose__
+## __Convey Ethos and Purpose__
 
 - The main services that the blog provides are outlined on the "Home" page
 - The "Preview" page provides bite sized chunks of work for perspective readers to view
