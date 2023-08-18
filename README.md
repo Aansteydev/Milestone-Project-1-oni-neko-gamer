@@ -1,26 +1,26 @@
 # Table of Contents
-1. [Overview] 
+1. [Overview](#overview) 
 2. [UX](#ux)
-   - [Scope] (#scope)
-   - [Requirements] (#requirements)
-   - [Encourage Footfall]
-3. [Structure]
-- [Home Page]
-- [Preview Page]
-- [Subscribe Page]  
-1. [Skeleton]
-- [Wireframes] 
-1. [Surface]
-- [Logo]
-- [Colours]
-1. [Features]
-  - [Existing Features]
-  - [Navigation Bar]
-  - [Footer]
-  - [Subscription Form
-2. [Future Improvements]
-- [Form Submission]
-- [Security]
+   - [Scope](#scope)
+   - [Requirements](#requirements)
+   - [Encourage Footfall](#encourage-footfall)
+3. [Structure](#structure)
+- [Home Page](#home-page)
+- [Preview Page](#preview-page)
+- [Subscribe Page](#subscribe-page)  
+1. [Skeleton](#skeleton)
+- [Wireframes](#wireframes) 
+1. [Surface](#surface)
+- [Logo](#logo)
+- [Colours](#colours)
+1. [Features](#features)
+  - [Existing Features](#existing-features)
+  - [Navigation Bar](#navigation-bar)
+  - [Footer](#footer)
+  - [Subscription Form](#subscription-form)
+2. [Future Improvements](#future-improvements)
+- [Form Submission](#form-submission)
+- [Security](#security)
     
 # Milestone Project One
 ## Video Game Blog - Oni Neko Gamer
