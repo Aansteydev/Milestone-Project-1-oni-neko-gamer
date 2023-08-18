@@ -327,3 +327,17 @@ body .h6 {
         float: right;
     }
 }
+
+@media only screen and (min-width: 600px) {
+    .col-sm-2 {
+        background: #61777F;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+    .col-md-2 {
+        background: #61777F;
+    }
+
+}
