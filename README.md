@@ -142,16 +142,16 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
 ---
 ### __Technologies used__
 - This project was written in HTML5 and CSS with the aid of Bootstrap 5.
-- This project was written in Codeanywhere.
-- The project was debugged with Chrome Developer Tools.
-- This project has used Github to store source code.
+- This project was written in [Codeanywhere](https://app.codeanywhere.com/).
+- The project was debugged with [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/).
+- This project has used [Github](https://github.com/) to store source code.
 - The Code Institutes template was used for this project.
-- The project uses fonts that were sourced from Google Fonts.
-- The project uses Bootstrap version 5.3.0.
-- The projects accessibility was checked periodically with Wave.
-- The images used in this project have been compressed with Tinyjpg.
-- The wireframes for this project were created in Balzamic.
-- The HTML was checked through W3C's HTML markup validator.
+- The project uses fonts that were sourced from [Google Fonts](https://fonts.google.com/).
+- The project uses [Bootstrap version 5.3.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
+- The projects accessibility was checked periodically with [Wave](https://wave.webaim.org/extension/).
+- The images used in this project have been compressed with [Tinyjpg](https://tinyjpg.com/).
+- The wireframes for this project were created in [Balzamic](https://balsamiq.com/).
+- The HTML was checked through [W3C's HTML markup validator](https://validator.w3.org/).
 
 
 
