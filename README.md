@@ -21,6 +21,7 @@
 7. [Future Improvements](#future-improvements)
       - [Form Submission](#form-submission)
       - [Security](#security)
+8. [Acknowledgements](acknowledgements)
     
 # Milestone Project One
 ## Video Game Blog - Oni Neko Gamer
@@ -142,6 +143,7 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
 ---
 ### __Technologies used__
 - This project was written in HTML5 and CSS with the aid of Bootstrap 5.
+- There is a small amount of Javascript used on the subscription form which was written by my mentor Benjamin Kavanagh.
 - This project was written in [Codeanywhere](https://app.codeanywhere.com/).
 - The project was debugged with [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/).
 - This project has used [Github](https://github.com/) to store source code.
@@ -152,6 +154,8 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
 - The images used in this project have been compressed with [Tinyjpg](https://tinyjpg.com/).
 - The wireframes for this project were created in [Balzamic](https://balsamiq.com/).
 - The HTML was checked through [W3C's HTML markup validator](https://validator.w3.org/).
+### __Acknowledgements__
+- I would like to thank my Mentor Benjamin Kavanagh who has encouraged me throughout this project and provided incredibly helpful feedback and has always tried his best to ensure that I am working to my full potential, his exoerience in the field has been priceless.
 
 
 
