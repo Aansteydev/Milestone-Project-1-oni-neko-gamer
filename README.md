@@ -31,7 +31,7 @@
 # __Overview__ 
 This project has been created as a way to promote a blog that is focused on Video Games, especially Japanese retro games. I am aiming to promote the gaming blog Oni Neko Gamer to a new audience of readers and contributors and to give potential customers an easy way to subscribe to the blog or to put in a request to contribute a piece of work for the blog.
 
-I have used two coding languages __HTML__ and __CSS__ to create this website.
+I have used two coding languages for the majority of work which are __HTML__ and __CSS__ and a small amount of __Javascript__ to create this website.
 
 ---
 
