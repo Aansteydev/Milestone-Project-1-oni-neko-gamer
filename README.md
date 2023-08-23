@@ -106,10 +106,6 @@ I have used the Balzamic application to create the wireframes for this project, 
 
 [Subscribe](https://github.com/Aansteydev/Milestone-Project-1-oni-neko-gamer/assets/137046660/27ed654b-9e4a-4b2f-8b60-1bd6763ce5d9)
 
-
-
-
-
 # __Surface__
 The aesthetical choices were made to give a feeling of nostalgia by invoking contrasting colors such as grey and yellow to create a visual representation of looking back on old and forgotten games with a renewed sense of reflection and knowledge of the subject matter.
 ## __logo__ 
@@ -119,7 +115,7 @@ The logo was created on [Logo.com](https://logo.com/) by using their creation to
 I first created the logo and this became a large part of the colour scheme for this project, the logo was designed in various colours but the one that stood out to me the most was the current choice with its simple combination of yellow and grey. These colors became the majority of the color scheme which is split up with a white navigation bar at the top of the page which features the ghosts from PacMan to brighten up the site and to tie back in with the logo and theme.
 
 the two primary colours are:
-Grey : ![#61777F](assets/images/#61777f-2.png)
+Grey : ![#61777F](assets/images/#61777f 2 .png)
 Yellow:![#fafa03](assets/images/#fafa03.png)
 
 # __Features__
