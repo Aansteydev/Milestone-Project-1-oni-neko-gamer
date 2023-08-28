@@ -17,10 +17,11 @@ body {
     height: auto;
 }
 
-.favicon{
+.favicon {
     height: 50px;
     justify-content: center;
 }
+
 .main-page {
     color: white;
     font-family: Roboto, sans-serif;
@@ -123,237 +124,219 @@ body .h6 {
         font-weight: 900;
     }
 
-    @media screen and (min-width: 373px) and (max-width: 1368px) {
-        #subscribe-form {
-            display: flex;
-            flex-direction: column;
-            flex-wrap: wrap;
-            align-content: center;
-            margin-left: 20%;
-            margin-right: 20%;
-            padding-top: 5%;
-            padding-bottom: 5%;
-            color: #fafa03;
-            font-weight: 900;
-            align-items: center;
-        }
+    .form-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
     }
 
-    @media screen and (min-width: 373px) and (max-width: 1368px) {
-        .form-row {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            width: 100%;
-        }
+#suggestion-box {
+    width: 480px;
+    height: 121px;
+}
+
+#sfexa {
+    height: 200px;
+    width: 200px;
+}
+
+#fotnlp {
+    height: 200px;
+    width: 200px;
+
+}
+
+#ff6 {
+    height: 200px;
+    width: auto;
+}
+
+#ffg {
+    height: 200px;
+    width: 200px;
+}
+
+#hp {
+    height: 200px;
+    width: auto;
+}
+
+#konami {
+    height: 200px;
+    width: 200px;
+}
+
+#baroque {
+    height: 200px;
+    width: auto;
+}
+
+@media screen and (min-width: 373px) and (max-width: 1368px) {
+    .embed-responsive-item {
+        margin-left: 38%;
+        padding: 1px;
+        display: flex;
+        overflow: hidden;
     }
 
-    #suggestion-box {
-        width: 480px;
-        height: 121px;
-    }
-
-    #sfexa {
-        height: 200px;
-        width: 200px;
-    }
-
-    #fotnlp {
-        height: 200px;
-        width: 200px;
-
-    }
-
-    #ff6 {
-        height: 200px;
-        width: auto;
-    }
-
-    #ffg {
-        height: 200px;
-        width: 200px;
-    }
-
-    #hp {
-        height: 200px;
-        width: auto;
-    }
-
-    #konami {
-        height: 200px;
-        width: 200px;
-    }
-
-    #baroque {
-        height: 200px;
-        width: auto;
-    }
-
-    @media screen and (min-width: 373px) and (max-width: 1368px) {
+    @media (max-width:320px) {
         .embed-responsive-item {
-            margin-left: 38%;
-            padding: 1px;
-            display: flex;
-            overflow: hidden;
+            width: 65%;
+            height: 180px;
+        }
+    }
+
+    .bg-image {
+        height: auto;
+    }
+
+    .modal
+
+    /*https: //www.w3schools.com/howto/tryit.asp?filename=tryhow_css_modal2*/
+        {
+        display: none;
+        /* Hidden by default */
+        position: fixed;
+        /* Stay in place */
+        z-index: 1;
+        /* Sit on top */
+        padding-top: 100px;
+        /* Location of the box */
+        left: 0;
+        top: 0;
+        width: 100%;
+        /* Full width */
+        height: 100%;
+        /* Full height */
+        overflow: auto;
+        /* Enable scroll if needed */
+        background-color: rgb(0, 0, 0);
+        /* Fallback color */
+        background-color: rgba(0, 0, 0, 0.4);
+        /* Black w/ opacity */
+    }
+
+    /* Modal Content */
+    .modal-content {
+        position: relative;
+        background-color: black;
+        margin: auto;
+        padding: 0;
+        border: 1px solid #61777F;
+
+        width: 80%;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        -webkit-animation-name: animatetop;
+        -webkit-animation-duration: 0.4s;
+        animation-name: animatetop;
+        animation-duration: 0.4s
+    }
+
+    /* Add Animation */
+    @-webkit-keyframes animatetop {
+        from {
+            top: -300px;
+            opacity: 0
         }
 
-        @media (max-width:320px) {
-            .embed-responsive-item {
-                width: 65%;
-                height: 180px;
-            }
-        }
-
-        .bg-image {
-            height: auto;
-        }
-
-        .modal
-
-        /*https: //www.w3schools.com/howto/tryit.asp?filename=tryhow_css_modal2*/
-            {
-            display: none;
-            /* Hidden by default */
-            position: fixed;
-            /* Stay in place */
-            z-index: 1;
-            /* Sit on top */
-            padding-top: 100px;
-            /* Location of the box */
-            left: 0;
+        to {
             top: 0;
-            width: 100%;
-            /* Full width */
-            height: 100%;
-            /* Full height */
-            overflow: auto;
-            /* Enable scroll if needed */
-            background-color: rgb(0, 0, 0);
-            /* Fallback color */
-            background-color: rgba(0, 0, 0, 0.4);
-            /* Black w/ opacity */
+            opacity: 1
+        }
+    }
+
+    @keyframes animatetop {
+        from {
+            top: -300px;
+            opacity: 0
         }
 
-        /* Modal Content */
-        .modal-content {
-            position: relative;
-            background-color: black;
-            margin: auto;
-            padding: 0;
-            border: 1px solid #61777F;
-
-            width: 80%;
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-            -webkit-animation-name: animatetop;
-            -webkit-animation-duration: 0.4s;
-            animation-name: animatetop;
-            animation-duration: 0.4s
+        to {
+            top: 0;
+            opacity: 1
         }
+    }
 
-        /* Add Animation */
-        @-webkit-keyframes animatetop {
-            from {
-                top: -300px;
-                opacity: 0
-            }
+    /* The Close Button */
+    .close {
+        color: white;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
 
-            to {
-                top: 0;
-                opacity: 1
-            }
-        }
+    .close:hover,
+    .close:focus {
+        color: #000;
+        text-decoration: none;
+        cursor: pointer;
+    }
 
-        @keyframes animatetop {
-            from {
-                top: -300px;
-                opacity: 0
-            }
+    .modal-header {
+        padding: 2px 16px;
+        background-color: #61777F;
+        color: white;
+    }
 
-            to {
-                top: 0;
-                opacity: 1
-            }
-        }
+    .modal-body {
+        padding: 2px 16px;
+    }
 
-        /* The Close Button */
-        .close {
+    .modal-footer {
+        padding: 2px 16px;
+        background-color: rgb(97, 119, 127);
+        color: #ffffff;
+    }
+
+    #myBtn {
+        border-color: rgb(250, 250, 3, 0.5);
+        border-radius: 6px;
+        width: 200px;
+        color: black
+    }
+
+    #myBtn:hover {
+        border-color: #f61313;
+    }
+
+    @media all and (max-width: 1368px) and (min-width: 376px) {
+        .text-break {
             color: white;
-            float: right;
-            font-size: 28px;
-            font-weight: bold;
+            font-family: Roboto, sans-serif;
+            font-weight: 300;
+            margin: 3px;
+            padding: 1px;
         }
+    }
 
-        .close:hover,
-        .close:focus {
-            color: #000;
-            text-decoration: none;
-            cursor: pointer;
-        }
 
-        .modal-header {
-            padding: 2px 16px;
-            background-color: #61777F;
-            color: white;
-        }
-
-        .modal-body {
-            padding: 2px 16px;
-        }
-
-        .modal-footer {
-            padding: 2px 16px;
-            background-color: rgb(97, 119, 127);
-            color: #ffffff;
-        }
-
-        #myBtn {
-            border-color: rgb(250, 250, 3, 0.5);
-            border-radius: 6px;
+    @media all and (max-width: 1368px) and (min-width: 375px) {
+        .image-thumbnail-right {
+            height: 200px;
             width: 200px;
-            color: black
-        }
-
-        #myBtn:hover {
-            border-color: #f61313;
-        }
-
-        @media all and (max-width: 1368px) and (min-width: 376px) {
-            .text-break {
-                color: white;
-                font-family: Roboto, sans-serif;
-                font-weight: 300;
-                margin: 3px;
-                padding: 1px;
-            }
-        }
-
-
-        @media all and (max-width: 1368px) and (min-width: 375px) {
-            .image-thumbnail-right {
-                height: 200px;
-                width: 200px;
-                display: flex;
-                align-items: flex-end;
-                justify-content: right;
-                margin-left: auto;
-            }
-        }
-
-        .github-socials {
-            float: right;
+            display: flex;
+            align-items: flex-end;
+            justify-content: right;
+            margin-left: auto;
         }
     }
 
-    @media only screen and (min-width: 600px) {
-        .col-sm-2 {
-            background: #61777F;
-        }
+    .github-socials {
+        float: right;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .col-sm-2 {
+        background: #61777F;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+    .col-md-2 {
+        background: #61777F;
     }
 
-    @media only screen and (min-width: 768px) {
-
-        .col-md-2 {
-            background: #61777F;
-        }
-
-    }
+}
