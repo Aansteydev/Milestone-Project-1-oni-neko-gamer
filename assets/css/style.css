@@ -17,6 +17,10 @@ body {
     height: auto;
 }
 
+.favicon{
+    height: 50px;
+    justify-content: center;
+}
 .main-page {
     color: white;
     font-family: Roboto, sans-serif;
