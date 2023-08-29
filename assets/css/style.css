@@ -8,13 +8,16 @@ body {
     background-color: #61777F;
 }
 
-#logo {
-    width: 400px;
-    overflow: hidden;
-    margin: auto;
-    display: block;
-    max-width: fit-content;
-    height: auto;
+/* may need to change the breakpoint */
+@media (max-width: 1399.98px) {
+    #logo {
+        width: 400px;
+        overflow: hidden;
+        margin: auto;
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
 }
 
 .favicon {
@@ -86,50 +89,49 @@ body .h6 {
     border-width: 5px;
 }
 
-@media screen and (min-width: 0px) and (max-width: 1368px) {
-    .navbar-nav {
-        margin-left: 80%;
-        width: auto;
-        height: auto;
-        overflow: hidden;
-    }
+.navbar-nav {
+    margin-left: 80%;
+    width: auto;
+    height: auto;
+    overflow: hidden;
+}
 
-    .nav-link:active a:hover {
-        color: #fafa03;
-    }
+.nav-link:active a:hover {
+    color: #fafa03;
+}
 
-    #home:hover {
-        color: #f61313;
-    }
+#home:hover {
+    color: #f61313;
+}
 
-    #preview:hover {
-        color: #06f8f4;
-    }
+#preview:hover {
+    color: #06f8f4;
+}
 
-    #subscribe:hover {
-        color: #ff97d0;
-    }
+#subscribe:hover {
+    color: #ff97d0;
+}
 
-    /*https: //stackoverflow.com/questions/8097744/how-do-i-center-this-form-in-css*/
-    #subscribe-form {
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
-        align-content: center;
-        margin-left: 20%;
-        margin-right: 20%;
-        padding-top: 5%;
-        padding-bottom: 5%;
-        color: #fafa03;
-        font-weight: 900;
-    }
+/*https: //stackoverflow.com/questions/8097744/how-do-i-center-this-form-in-css*/
+#subscribe-form {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: #fafa03;
+    font-weight: 900;
+}
 
-    .form-row {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        width: 100%;
-    }
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+}
 
 #suggestion-box {
     width: 480px;
@@ -300,17 +302,6 @@ body .h6 {
         border-color: #f61313;
     }
 
-    @media all and (max-width: 1368px) and (min-width: 376px) {
-        .text-break {
-            color: white;
-            font-family: Roboto, sans-serif;
-            font-weight: 300;
-            margin: 3px;
-            padding: 1px;
-        }
-    }
-
-
     @media all and (max-width: 1368px) and (min-width: 375px) {
         .image-thumbnail-right {
             height: 200px;
@@ -327,16 +318,15 @@ body .h6 {
     }
 }
 
-@media only screen and (min-width: 600px) {
-    .col-sm-2 {
-        background: #61777F;
-    }
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
-@media only screen and (min-width: 768px) {
-
-    .col-md-2 {
-        background: #61777F;
-    }
-
+#footer {
+    width: 100vw;
+    position: static;
+    bottom: 0;
+    margin-top: auto;
 }
