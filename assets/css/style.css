@@ -88,14 +88,14 @@ body .h6 {
     margin: auto;
     border-width: 5px;
 }
-
+@include media-breakpoint-up(lg){
 .navbar-nav {
     margin-left: 80%;
     width: auto;
     height: auto;
     overflow: hidden;
 }
-
+}
 .nav-link:active a:hover {
     color: #fafa03;
 }
