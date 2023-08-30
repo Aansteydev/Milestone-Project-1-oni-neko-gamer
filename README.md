@@ -25,6 +25,7 @@
     
 # Milestone Project One
 ## Video Game Blog - Oni Neko Gamer
+This project is for a static website which is functioning as a promotional site for a gaming blog [view website on github pages](https://aansteydev.github.io/Milestone-Project-1-oni-neko-gamer/)
 ---
 ![Logo](assets/images/logo2.png)
 ---
