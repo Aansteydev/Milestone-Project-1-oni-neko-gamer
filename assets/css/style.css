@@ -88,15 +88,23 @@ body .h6 {
     margin: auto;
     border-width: 5px;
 }
-@media (min-width: 992px){
-.navbar-nav {
-    margin-left: 80%;
-    width: auto;
-    height: auto;
-    overflow: hidden;
-    
+
+.form-row {
+    margin: 2px;
+    padding: 2px;
+
 }
+
+@media (min-width: 992px) {
+    .navbar-nav {
+        margin-left: 80%;
+        width: auto;
+        height: auto;
+        overflow: hidden;
+
+    }
 }
+
 .nav-link:active a:hover {
     color: #fafa03;
 }
@@ -319,7 +327,8 @@ body .h6 {
     }
 }
 
-body {
+/*https: //stackoverflow.com/questions/70930827/footer-taking-up-alot-of-blank-space-when-at-the-bottom-of-page*/
+.body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -330,4 +339,22 @@ body {
     position: static;
     bottom: 0;
     margin-top: auto;
+
+}
+
+.fa-ghost {
+    padding: 5px;
+    margin: 5px;
+}
+
+@media screen and (max-width: 750px) {
+    .navbar-toggler {
+        display: inline;
+    }
+}
+
+.navbar-brand {
+    color: #61777F;
+    font-style: italic;
+    font-weight: 600;
 }
