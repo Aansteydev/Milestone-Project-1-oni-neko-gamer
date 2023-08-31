@@ -97,7 +97,7 @@ body .h6 {
 
 @media (min-width: 992px) {
     .navbar-nav {
-        margin-left: 80%;
+        margin-left: 70%;
         width: auto;
         height: auto;
         overflow: hidden;
@@ -347,10 +347,9 @@ body .h6 {
     margin: 5px;
 }
 
-@media screen and (max-width: 750px) {
-    .navbar-toggler {
-        display: inline;
-    }
+
+.navbar-toggler {
+    display: inline;
 }
 
 .navbar-brand {
