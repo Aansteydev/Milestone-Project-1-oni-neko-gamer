@@ -89,11 +89,6 @@ body .h6 {
     border-width: 5px;
 }
 
-.form-row {
-    margin: 2px;
-    padding: 2px;
-
-}
 
 @media (min-width: 992px) {
     .navbar-nav {
@@ -135,16 +130,19 @@ body .h6 {
     font-weight: 900;
 }
 
+
 .form-row {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
+    margin: 2px;
+    padding: 2px;
 }
-
+/* changed height to 242px it was previously 120px*/
 #suggestion-box {
     width: 480px;
-    height: 121px;
+    height: 242px;
 }
 
 #sfexa {
