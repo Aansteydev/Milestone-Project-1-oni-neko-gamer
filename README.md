@@ -39,7 +39,7 @@ I have used two coding languages for the majority of work which are __HTML__ and
 # __UX__
 Oni Neko Gamer has recently ran a poll within its current reader base of around 100 readers, with about 20 of them being the most avid readers on Wordpress where the blog is hosted currently. The questions that were posed to the polling group were based on how to get more footfall for the site which lead us to the suggestion that Oni Neko Gamer should be rewritten by using HTML and CSS to create a new, more proffessional look for the blog.
 ---
-## __Scope__
+# __Scope__
 ## __Requirements__
 ## __Encourage and allow user engagement__
 - To attain more readers to the blog.
