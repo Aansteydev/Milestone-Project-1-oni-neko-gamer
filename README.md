@@ -115,7 +115,7 @@ The logo was created on [Logo.com](https://logo.com/) by using their creation to
 ## __Colours__
 I first created the logo and this became a large part of the colour scheme for this project, the logo was designed in various colours but the one that stood out to me the most was the current choice with its simple combination of yellow and grey. These colors became the majority of the color scheme which is split up with a white navigation bar at the top of the page which features the ghosts from PacMan to brighten up the site and to tie back in with the logo and theme.
 
-the two primary colours are:
+the two primary colours are
 Grey:![#61777F](assets/images/61777f-2.png)
 Yellow:![#fafa03](assets/images/fafa03.png)
 
