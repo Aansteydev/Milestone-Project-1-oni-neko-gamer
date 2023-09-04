@@ -17,12 +17,16 @@ body {
         display: block;
         max-width: 100%;
         height: auto;
+        padding-top: 75px;
+        padding-bottom: 75px;
     }
 }
 
 .favicon {
-    height: 50px;
+    height: 105px;
+    width: 105px;
     justify-content: center;
+    padding: 6px;
 }
 
 .main-page {
@@ -146,11 +150,12 @@ body .h6 {
 }
 
 /* changed height to 242px it was previously 120px*/
+@media (min-width: 766px){
 #suggestion-box {
-    width: 480px;
-    height: 242px;
+    width: 380px;
+    height: 380px;
 }
-
+}
 #sfexa {
     height: 200px;
     width: 200px;
