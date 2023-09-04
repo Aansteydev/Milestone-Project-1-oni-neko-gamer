@@ -11,7 +11,7 @@ body {
 /* may need to change the breakpoint */
 @media (max-width: 1399.98px) {
     #logo {
-        width: 400px;
+        width: 250px;
         overflow: hidden;
         margin: auto;
         display: block;
@@ -128,6 +128,11 @@ body .h6 {
     padding-bottom: 5%;
     color: #fafa03;
     font-weight: 900;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: black solid 2px;
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 100%;
 }
 
 
@@ -180,6 +185,15 @@ body .h6 {
 #baroque {
     height: 200px;
     width: auto;
+}
+
+.preview-text-1 {
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+}
+
+.preview-text-2 {
+    padding-bottom: 10px;
 }
 
 @media screen and (min-width: 373px) and (max-width: 1368px) {
@@ -304,6 +318,7 @@ body .h6 {
         border-radius: 6px;
         width: 200px;
         color: black
+        
     }
 
     #myBtn:hover {
