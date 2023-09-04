@@ -139,6 +139,7 @@ body .h6 {
     margin: 2px;
     padding: 2px;
 }
+
 /* changed height to 242px it was previously 120px*/
 #suggestion-box {
     width: 480px;
@@ -333,7 +334,7 @@ body .h6 {
 }
 
 #footer {
-    width: 100vw;
+    width: auto;
     position: static;
     bottom: 0;
     margin-top: auto;
