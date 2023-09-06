@@ -17,8 +17,8 @@ body {
         display: block;
         max-width: 100%;
         height: auto;
-        padding-top: 75px;
-        padding-bottom: 75px;
+        padding-top: 50px;
+        padding-bottom: 50px;
     }
 }
 
@@ -150,12 +150,13 @@ body .h6 {
 }
 
 /* changed height to 242px it was previously 120px*/
-@media (min-width: 766px){
-#suggestion-box {
-    width: 380px;
-    height: 380px;
+@media (min-width: 766px) {
+    #suggestion-box {
+        width: 380px;
+        height: 380px;
+    }
 }
-}
+
 #sfexa {
     height: 200px;
     width: 200px;
@@ -323,7 +324,6 @@ body .h6 {
         border-radius: 6px;
         width: 200px;
         color: black
-        
     }
 
     #myBtn:hover {
@@ -343,7 +343,13 @@ body .h6 {
 
     .github-socials {
         float: right;
+        color: #61777f;
     }
+}
+
+.fa-github {
+    float: right;
+    color: #61777f;
 }
 
 /*https: //stackoverflow.com/questions/70930827/footer-taking-up-alot-of-blank-space-when-at-the-bottom-of-page*/
@@ -358,14 +364,13 @@ body .h6 {
     position: static;
     bottom: 0;
     margin-top: auto;
-
+    background-color: rgb(250, 250, 3);
 }
 
 .fa-ghost {
-    padding: 5px;
-    margin: 5px;
+    padding: 2px;
+    margin: 2px;
 }
-
 
 .navbar-toggler {
     display: inline;
