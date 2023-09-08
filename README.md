@@ -32,7 +32,7 @@ This project is for a static website which is functioning as a promotional site 
 # __Overview__ 
 This project has been created as a way to promote a blog that is focused on Video Games, especially Japanese retro games. I am aiming to promote the gaming blog Oni Neko Gamer to a new audience of readers and contributors and to give potential customers an easy way to subscribe to the blog or to put in a request to contribute a piece of work for the blog.
 
-I have used two coding languages for the majority of work which are __HTML__ and __CSS__ and a small amount of __Javascript__ to create this website.
+I have used two coding languages for the majority of work which are __HTML__, __CSS__ , a small amount of inline __CSS__ for the Font Awesome icons that I have used and a small amount of __Javascript__ to create this website.
 
 ---
 
@@ -152,4 +152,4 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
 - The wireframes for this project were created in [Balzamic](https://balsamiq.com/).
 - The HTML was checked through [W3C's HTML markup validator](https://validator.w3.org/).
 # __Acknowledgements__
-- I would like to thank my Mentor Benjamin Kavanagh who has encouraged me throughout this project and provided incredibly helpful feedback and has always tried his best to ensure that I am working to my full potential, his exoerience in the field has been priceless.
+- I would like to thank my Mentor Benjamin Kavanagh who has encouraged me throughout this project whilst providing incredibly helpful feedback and has always tried his best to ensure that I am working to my full potential, his experience in the field has been priceless.
