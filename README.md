@@ -153,5 +153,32 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
 - The images used in this project have been compressed with [Tinyjpg](https://tinyjpg.com/).
 - The wireframes for this project were created in [Balzamic](https://balsamiq.com/).
 - The HTML was checked through [W3C's HTML markup validator](https://validator.w3.org/).
+  __Testing__
+  ---
+  Testing User stories from User Experience Design (UX) Section
+  ##__Further Testing__
+  ---
+  - The project was tested through Google Chrome using the built in Develeper tools function to test the sites compatability on different devices with varying screen sizes succesfully.
+  - The project was tested on a Google Pixel 6 mobile phone and a Asus Zephyrus laptop that features a 12" inch display
+  - Google Chrome develeper tools allowed me to emulate different devices to test the responsiveness on each device
+  - The devices emulated are as follows,
+  - Iphone SE
+  - Iphone XR
+  - Iphone 12 Pro
+  - Google Pixel 5
+  - Samsung Galaxy S8+/S20 Ultra
+  - Ipad Air
+  - Ipad Mini
+  - Surface Pro 7
+  - Surface Duo
+  - Galaxy fold
+  - Samsung Galaxy A51/71
+  - Nest Hub
+  - Nest Hub Max
+  I have also used the W3C Validator service to check the validity of the code,
+##__W3C CSS Validator__
+---
+![CSS](assets/images/CSSvalidator.png) 
+---
 # __Acknowledgements__
 - I would like to thank my Mentor Benjamin Kavanagh who has encouraged me throughout this project whilst providing incredibly helpful feedback and has always tried his best to ensure that I am working to my full potential, his experience in the field has been priceless.
