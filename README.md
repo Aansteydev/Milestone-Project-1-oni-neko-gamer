@@ -21,7 +21,9 @@
 7. [Future Improvements](#future-improvements)
       - [Form Submission](#form-submission)
       - [Security](#security)
-8. [Acknowledgements](acknowledgements)
+8. [Technologies Used[(#technologies used)
+9. [Testing](#testing)
+10. [Acknowledgements](#acknowledgements)
     
 # Milestone Project One
 ## Video Game Blog - Oni Neko Gamer
