@@ -178,17 +178,12 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
   - Nest Hub Max
   I have also used the W3C Validator service to check the validity of the code,
 ## __W3C CSS Validator__
----
-## __W3C CSS validator screenshot__ 
-[css code validation](assets/images/CSS-validator.png) 
-## __W3C HTML validation screenshots__
-## __Home__
-[home page](assets/images/homepage-w3c.png)
-## __Preview__
-[preview page](assets/images/preview-w3c.png)
-## __Subscribe__
-[subscribe page](assets/images/subscribe-w3c.png)
-
+- W3C CSS validator screenshot 
+      - [css code validation](assets/images/CSS-validator.png) 
+- W3C HTML validation screenshots
+      - [home page results](assets/images/homepage-w3c.png)
+      - [preview page results](assets/images/preview-w3c.png)
+      - [subscribe page results](assets/images/subscribe-w3c.png)
 ---
 # __Acknowledgements__
 - I would like to thank my Mentor Benjamin Kavanagh who has encouraged me throughout this project whilst providing incredibly helpful feedback and has always tried his best to ensure that I am working to my full potential, his experience in the field has been priceless.
