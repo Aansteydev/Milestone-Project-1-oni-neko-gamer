@@ -34,7 +34,8 @@ This project is for a static website which is functioning as a promotional site 
 # __Overview__ 
 This project has been created as a way to promote a blog that is focused on Video Games, especially Japanese retro games. I am aiming to promote the gaming blog Oni Neko Gamer to a new audience of readers and contributors and to give potential customers an easy way to subscribe to the blog or to put in a request to contribute a piece of work for the blog.
 
-I have used two coding languages for the majority of work which are __HTML__, __CSS__ , a small amount of inline __CSS__ for the Font Awesome icons that I have used and a small amount of __Javascript__ to create this website.
+I have used two coding languages for the majority of work which are __HTML__, __CSS__ , a small amount of inline __CSS__ for the Font Awesome icons that I have used and a small amount of __Javascript__ to create this website. This website is a culmination of months of hard work which has turned into a labour of love that has cemented my passion for coding and I sincerely hope that you enjoy looking at it as much as I have enjoyed creating it.
+[Link for the live site](https://aansteydev.github.io/Milestone-Project-1-oni-neko-gamer/)
 
 ---
 
