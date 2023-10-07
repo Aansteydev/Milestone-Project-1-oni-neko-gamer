@@ -35,7 +35,6 @@ This project is for a static website which is functioning as a promotional site 
 This project has been created as a way to promote a blog that is focused on Video Games, especially Japanese retro games. I am aiming to promote the gaming blog Oni Neko Gamer to a new audience of readers and contributors and to give potential customers an easy way to subscribe to the blog or to put in a request to contribute a piece of work for the blog.
 
 I have used two coding languages for the majority of work which are __HTML__, __CSS__ , a small amount of inline __CSS__ for the Font Awesome icons that I have used and a small amount of __Javascript__ to create this website. This website is a culmination of months of hard work which has turned into a labour of love that has cemented my passion for coding and I sincerely hope that you enjoy looking at it as much as I have enjoyed creating it.
-[Link for the live site](https://aansteydev.github.io/Milestone-Project-1-oni-neko-gamer/)
 
 ---
 
@@ -44,6 +43,7 @@ Oni Neko Gamer has recently ran a poll within its current reader base of around 
 ---
 # __Scope__
 ## __Requirements__
+As the develeper of this site my most important thought was how to make the site as easy to use as possible for the end user and after researching the layout of gaming hobbyist websites such as Polygon, Hardcore Gaming 101 and Destructoid I realised that I have never considered how easy their websites are to traverse, mostly due to them being so well designed. Another important step for me was to find ways to keep the user engaged whilst they are visiting, this was achieved by adding images and short paragraphs of text that explain the ethos of what I am building and what the end user can expect in the future. One way of adding interactivity for the end user is the Subscribe page where the user can submit ideas for future articles and submissions for their own articles which is a great way to build a community of readers that feel noticed and listened to which will increase the longevity of the brand. The Preview page was added as a way to represent past articles that were hosted on Wordpress and to hopefully leave a lasting impression on new readers who may be in to the more obscure side of the hobby which doesn't often get talked about on larger websites and is what the brand is all about, hightlighting long forgotten titles that still deserve to be played today. The website has been split up into manageable chunks that hold relevant information which is clearly presented with images and in one instance an embedded video.
 ## __Encourage and allow user engagement__
 - To attain more readers to the blog.
 - The addition of reader submitted work.
