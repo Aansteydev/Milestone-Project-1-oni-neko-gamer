@@ -182,9 +182,12 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
 ## __W3C CSS validator screenshot__ 
 [css code validation](assets/images/CSS-validator.png) 
 ## __W3C HTML validation screenshots__
-[home page](assets/images/homepage-w3c)
-[preview page](assets/images/preview-w3c)
-[subscribe page](assets/images/subscribe-w3c)
+## __Home__
+[home page](assets/images/homepage-w3c.png)
+## __Preview__
+[preview page](assets/images/preview-w3c.png)
+## __Subscribe__
+[subscribe page](assets/images/subscribe-w3c.png)
 
 ---
 # __Acknowledgements__
