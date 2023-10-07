@@ -180,7 +180,7 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
 ## __W3C CSS Validator__
 ---
 ## __W3C CSS validator screenshot__ 
-[CSS](assets/images/CSSvalidator.png) 
+[CSS](assets/images/CSS-validator.png) 
 ---
 # __Acknowledgements__
 - I would like to thank my Mentor Benjamin Kavanagh who has encouraged me throughout this project whilst providing incredibly helpful feedback and has always tried his best to ensure that I am working to my full potential, his experience in the field has been priceless.
