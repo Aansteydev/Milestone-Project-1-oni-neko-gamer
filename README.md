@@ -45,7 +45,9 @@ Oni Neko Gamer has recently ran a poll within its current reader base of around 
 3. Structure
 4. Skeleton
 5. surface
+
 All five of the planes represent the indivual planning elements and they will all be covered in detail as you read through this document.
+
 ---
 # __Strategy__ 
 ## __Creator Stories__
@@ -132,10 +134,21 @@ The website has been designed as a way to get as much information across to the 
 The paragraphs all need to be clearly seperated from one another with enough breathing space that they won't give the impression of a dense block of text. The background colours that I chose also help to lighten the mood of the page and to create a feeling of relaxation as I want the reader to enjoy their time whilst reading my work, so I chose two colours that are part of the logo for Oni Neko Gamer, these are,
 Yellow #fafa03
 Grey 61777f 
-whilst the yellow is relatively bright this should imbue a sense of fun and colour whilst the grey helps to ease the reader into the work and create a good environment for reading. 
+whilst the yellow is relatively bright this should imbue a sense of fun and colour whilst the grey helps to ease the reader into the work and create a good environment for reading almost akin to a dark mode of sorts.
+
+## __Typography__
+I have used Roboto throughout the project with differening text weights as Roboto is a very easy to read font I was confident that it was the right choice for this project after an exhaustive search through Google Fonts. Sans serif has been added as a backup in case Roboto doesn't load. The font has been repeated throughout the page to gain consistency throughout the project, the header and footer both feature the same font. 
+
+I have also included Font Awesome icons to the Navbar which has not only helped to signify the theme of the site but adds some colour to the page, The icons are in the form of ghosts from Namco's arcade classic PacMan and by hovering over the ghosts which function as links for the other pages of the site the text colour will change upon mouse hover and will lose it's colour to signify what page you're currently visiting.
+
+I have also included a slight hover to the Octocat link to Github in the footer, this is to provide feedback to the user to ensure that they feel confident that the link is in fact clickable and will redirect them to the source code. 
+
+I have also endevoured to ensure that the website is responsive across all screen sizes and devices, this has aided me to ensure that all future projects will be responsive and I have learned a lot from my time configuring this project.
+
+
 # __Skeleton__
 ## __Wireframes__
-I have used the Balzamic application to create the wireframes for this project, however once I began to write the code for this project I realised that the layout was not going to work for my project so it has changed slightly in the final version.  
+I have used the Balzamiq application to create the wireframes for this project, however once I began to write the code for this project I realised that the layout was not going to work for my project so it has changed slightly in the final version. The initial iterations of the website should be treated as a prototype and the final project as an evolution on the original idea.  
 ## __Balzamiq Wireframe files__
 [Home page](https://github.com/Aansteydev/Milestone-Project-1-oni-neko-gamer/assets/137046660/75a029ad-0829-4f29-b3b1-0deea2a32eaa)
 
