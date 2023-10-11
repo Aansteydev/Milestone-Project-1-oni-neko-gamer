@@ -21,7 +21,7 @@
 8. [Future Improvements](#future-improvements)
       - [Form Submission](#form-submission)
       - [Security](#security)
-9. [Technologies Used](#technologies used)
+9. [Technologies Used](#technologies-used)
 10. [Testing](#testing)
 11. [Acknowledgements](#acknowledgements)
     
@@ -136,15 +136,14 @@ Yellow #fafa03
 Grey 61777f 
 whilst the yellow is relatively bright this should imbue a sense of fun and colour whilst the grey helps to ease the reader into the work and create a good environment for reading almost akin to a dark mode of sorts.
 
-## __Typography__
-I have used Roboto throughout the project with differening text weights as Roboto is a very easy to read font I was confident that it was the right choice for this project after an exhaustive search through Google Fonts. Sans serif has been added as a backup in case Roboto doesn't load. The font has been repeated throughout the page to gain consistency throughout the project, the header and footer both feature the same font. 
-
 I have also included Font Awesome icons to the Navbar which has not only helped to signify the theme of the site but adds some colour to the page, The icons are in the form of ghosts from Namco's arcade classic PacMan and by hovering over the ghosts which function as links for the other pages of the site the text colour will change upon mouse hover and will lose it's colour to signify what page you're currently visiting.
 
-I have also included a slight hover to the Octocat link to Github in the footer, this is to provide feedback to the user to ensure that they feel confident that the link is in fact clickable and will redirect them to the source code. 
+I have also included a slight colour change on hover to the Octocat link to Github and my email address in the footer, this is to provide feedback to the user to ensure that they feel confident that the link is in fact clickable and will redirect them to the source code. 
 
-I have also endevoured to ensure that the website is responsive across all screen sizes and devices, this has aided me to ensure that all future projects will be responsive and I have learned a lot from my time configuring this project.
+I have also endevoured to ensure that the website is responsive across all screen sizes and devices, this has aided me to ensure that all future projects will be responsive and I have learned a lot from my time configuring this project. The Subscribe button on the subscribe page also features a change of colour on hover and will initiate a Javascript script which was written by my mentor Benjamin Kavanaugh.
 
+## __Typography__
+I have used Roboto throughout the project with differening text weights as Roboto is a very easy to read font I was confident that it was the right choice for this project after an exhaustive search through Google Fonts. Sans serif has been added as a backup in case Roboto doesn't load. The font has been repeated throughout the page to gain consistency throughout the project, the header and footer both feature the same font. 
 
 # __Skeleton__
 ## __Wireframes__
