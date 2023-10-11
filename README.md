@@ -1,29 +1,30 @@
 # Table of Contents
 1. [Overview](#overview) 
-2. [UX](#ux)
+2. [UX](#ux) 
+       -[Strategy](#strategy)
       - [Scope](#scope)
       - [Requirements](#requirements)
       - [Encourage Footfall](#encourage-footfall)
-3. [Structure](#structure)
+4. [Structure](#structure)
       - [Home Page](#home-page)
       - [Preview Page](#preview-page)
       - [Subscribe Page](#subscribe-page)  
-4. [Skeleton](#skeleton)
+5. [Skeleton](#skeleton)
       - [Wireframes](#wireframes) 
-5. [Surface](#surface)
+6. [Surface](#surface)
       - [Logo](#logo)
       - [Colours](#colours)
-6. [Features](#features)
+7. [Features](#features)
      - [Existing Features](#existing-features)
      - [Navigation Bar](#navigation-bar)
      - [Footer](#footer)
      - [Subscription Form](#subscription-form)
-7. [Future Improvements](#future-improvements)
+8. [Future Improvements](#future-improvements)
       - [Form Submission](#form-submission)
       - [Security](#security)
-8. [Technologies Used[(#technologies used)
-9. [Testing](#testing)
-10. [Acknowledgements](#acknowledgements)
+9. [Technologies Used](#technologies used)
+10. [Testing](#testing)
+11. [Acknowledgements](#acknowledgements)
     
 # Milestone Project One
 ## Video Game Blog - Oni Neko Gamer
@@ -41,9 +42,32 @@ I have used two coding languages for the majority of work which are __HTML__, __
 # __UX__
 Oni Neko Gamer has recently ran a poll within its current reader base of around 100 readers, with about 20 of them being the most avid readers on Wordpress where the blog is hosted currently. The questions that were posed to the polling group were based on how to get more footfall for the site which lead us to the suggestion that Oni Neko Gamer should be rewritten by using HTML and CSS to create a new, more proffessional look for the blog.
 ---
-# __Scope__
 ## __Requirements__
-As the develeper of this site my most important thought was how to make the site as easy to use as possible for the end user and after researching the layout of gaming hobbyist websites such as Polygon, Hardcore Gaming 101 and Destructoid I realised that I have never considered how easy their websites are to traverse, mostly due to them being so well designed. Another important step for me was to find ways to keep the user engaged whilst they are visiting, this was achieved by adding images and short paragraphs of text that explain the ethos of what I am building and what the end user can expect in the future. One way of adding interactivity for the end user is the Subscribe page where the user can submit ideas for future articles and submissions for their own articles which is a great way to build a community of readers that feel noticed and listened to which will increase the longevity of the brand. The Preview page was added as a way to represent past articles that were hosted on Wordpress and to hopefully leave a lasting impression on new readers who may be in to the more obscure side of the hobby which doesn't often get talked about on larger websites and is what the brand is all about, hightlighting long forgotten titles that still deserve to be played today. The website has been split up into manageable chunks that hold relevant information which is clearly presented with images and in one instance an embedded video.
+My goal as the creator of this website is to encourage an interest in video games.
+# __Strategy__ 
+## __Creator Stories__
+Creater Goals
+-To make an asethetically appealing website which is easy to identify as a unique brand.
+- The site needs to be as user friendly as possible with clear seperation of pages.
+- As a creator it is important to me that the user is engaged and interested by the sites content.
+- All of the content must flow coherently and with purpose.
+- The topic of the page needs to be clear for the user and this will be achevied with the logo that I have created and by utilising Font Awesome icons.
+- I want the user to engage with the site as much as possible so an interactive element such as the ability to contact the creator or to submit reviews will need to be implemented.
+  ## __User Stories__
+  First time visitor goals,
+  - As a first time visitor I want to be able to understand the theme of the webpage without having to search for it.
+  - I want to have clear indications of what page I am currently visiting I.E the Homepage, as well as being able to navigate my way around the site without issue.
+  - As a first time visitor I want to be engaged by the content of the website, whether this is done by text, images or video.
+  - Since this page is serving as a taster of a full and more developed website I will want to get an idea of the authors writing style so that I can ascertain whether I want to keep on engaging with the author.
+  - I want the website to be clear and easy to look at it.
+
+    Returning visitor goals,
+    - As a returning visitor I want to be able to engage with the websites author.
+    - I would also like to be able to view more work in the near future.
+ 
+      Unfortunately none of my friends or family are gamers so instead I have created a website that I would be excited to find and would be excited to contribute to or interactive with. I have tried to make the contents clear for people that aren't interested in the hobby in the hopes that it could become an introduction for them. I recieved feedback from family members, friends and my partner and the feedback has lead me to believe that I have acheived what I aimed to do. 
+    - 
+# __Scope__
 ## __Encourage and allow user engagement__
 - To attain more readers to the blog.
 - The addition of reader submitted work.
@@ -103,7 +127,7 @@ As the develeper of this site my most important thought was how to make the site
 # __Skeleton__
 ## __Wireframes__
 I have used the Balzamic application to create the wireframes for this project, however once I began to write the code for this project I realised that the layout was not going to work for my project so it has changed slightly in the final version.  
-## __Balzamic Wireframe files__
+## __Balzamiq Wireframe files__
 [Home page](https://github.com/Aansteydev/Milestone-Project-1-oni-neko-gamer/assets/137046660/75a029ad-0829-4f29-b3b1-0deea2a32eaa)
 
 [Preview](https://github.com/Aansteydev/Milestone-Project-1-oni-neko-gamer/assets/137046660/8e1819c5-b16a-4ed2-8388-b8d547628d78)
@@ -116,11 +140,11 @@ The aesthetical choices were made to give a feeling of nostalgia by invoking con
 The logo was created on [Logo.com](https://logo.com/) by using their creation tools. The font was chosen as a way to imprint nostalgia on to the reader and with the use of PacMan in the the middle of the logo I feel that it is an effective tool to allow the reader to know what they are looking at within the first five seconds of visiting the page. 
 
 ## __Colours__
-I first created the logo and this became a large part of the colour scheme for this project, the logo was designed in various colours but the one that stood out to me the most was the current choice with its simple combination of yellow and grey. These colors became the majority of the color scheme which is split up with a white navigation bar at the top of the page which features the ghosts from PacMan to brighten up the site and to tie back in with the logo and theme.
+I first created the logo and this became a large part of the colour scheme for this project, the logo was designed in various colours but the one that stood out to me the most was the current choice with its simple combination of yellow and grey. These colors became the majority of the color scheme which is split up with a white navigation bar at the top of the page which features the ghosts from PacMan to brighten up the site and to tie the sceheme back in with the logo and theme.
 
 the two primary colours are
-Grey:![#61777F](assets/images/61777f-2.png)
-Yellow:![#fafa03](assets/images/fafa03.png)
+Grey #61777F:![#61777F](assets/images/61777f-2.png)
+Yellow #fafa03:![#fafa03](assets/images/fafa03.png)
 
 # __Features__
 ---
