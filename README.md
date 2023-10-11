@@ -3,7 +3,6 @@
 2. [UX](#ux) 
        -[Strategy](#strategy)
       - [Scope](#scope)
-      - [Requirements](#requirements)
       - [Encourage Footfall](#encourage-footfall)
 4. [Structure](#structure)
       - [Home Page](#home-page)
@@ -40,10 +39,14 @@ I have used two coding languages for the majority of work which are __HTML__, __
 ---
 
 # __UX__
-Oni Neko Gamer has recently ran a poll within its current reader base of around 100 readers, with about 20 of them being the most avid readers on Wordpress where the blog is hosted currently. The questions that were posed to the polling group were based on how to get more footfall for the site which lead us to the suggestion that Oni Neko Gamer should be rewritten by using HTML and CSS to create a new, more proffessional look for the blog.
+Oni Neko Gamer has recently ran a poll within its current reader base of around 100 readers, with about 20 of them being the most avid readers on Wordpress where the blog is hosted currently. The questions that were posed to the polling group were based on how to get more footfall for the site which lead us to the suggestion that Oni Neko Gamer should be rewritten using HTML and CSS with Javascript in the near future to create a new, more proffessional look for the blog. This is being created in hopes of attracting a larger reader group whilst being able to promote a unique brand identity in an over satuated market. The following strategy has been developed over five different planes of design 
+1. Strategy
+2. Scope
+3. Structure
+4. Skeleton
+5. surface
+All five of the planes represent the indivual planning elements and they will all be covered in detail as you read through this document.
 ---
-## __Requirements__
-My goal as the creator of this website is to encourage an interest in video games.
 # __Strategy__ 
 ## __Creator Stories__
 Creater Goals
@@ -124,6 +127,12 @@ Creater Goals
 ## __Business Goal__
 - More subscribers to extend the blogs popularity.
 - Easy to use request box for ideas for reader written content.
+# __Structure__
+The website has been designed as a way to get as much information across to the reader without it being overwhelming, this is a difficult juggling act because the more information that you make available the higher your chances are of the reader being fatigued or overwhelmed so my first instinct was to try to break the paragraphs up into manageable chunks and to make sure that the pages themselves weren't too long. 
+The paragraphs all need to be clearly seperated from one another with enough breathing space that they won't give the impression of a dense block of text. The background colours that I chose also help to lighten the mood of the page and to create a feeling of relaxation as I want the reader to enjoy their time whilst reading my work, so I chose two colours that are part of the logo for Oni Neko Gamer, these are,
+Yellow #fafa03
+Grey 61777f 
+whilst the yellow is relatively bright this should imbue a sense of fun and colour whilst the grey helps to ease the reader into the work and create a good environment for reading. 
 # __Skeleton__
 ## __Wireframes__
 I have used the Balzamic application to create the wireframes for this project, however once I began to write the code for this project I realised that the layout was not going to work for my project so it has changed slightly in the final version.  
