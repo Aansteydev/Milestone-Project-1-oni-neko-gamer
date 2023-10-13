@@ -202,7 +202,8 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
   
   # __Testing__
   ---
-  Testing User stories from User Experience Design (UX) Section
+  Testing user stories
+  - As a first time visitor I want to be able to understand the theme of the webpage without having to search for it.
   ## __Further Testing__
   ---
   - The project was tested through Google Chrome using the built in Develeper tools function to test the sites compatability on different devices with varying screen sizes succesfully.
