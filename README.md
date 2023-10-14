@@ -235,10 +235,28 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
 - Fixed error with images on the preview page not appearing correctly.
   - added bootstrap code "col-md-4 col-12" to ensure that the images flowed consistently.
 - Fixed error regarding Octocat image no longer working as a link for the Github repository.
-  -Fixed spelling error in code.
+  - Fixed spelling error in code.
 - Fixed issue with the form on the subscribe page not displaying correctly on mobile which caused the form and button to be unaligned.
   - Issue fixed by changing the height of the suggestion box from 120px to 242px.
 - fixed issue with the footer moving vertically on some screen sizes which lead to white space at the bottom of the page.
   - The issue was fixed by adjusting the view height of the subscribe page.    
+# __Deployment__
+## __Github pages__
+1. Open the repository section on Github and select this repository.
+2. Use the *Settings* link which is located in the menu on the top of the page.
+3. Once in the *settings* menu if you scroll down there should be an option on the left which is called *Github Pages*.
+4.  Change the *Source* menu item to *Master* then proceed to click on *Save*
+5.  The page will reload and the next step is to scroll back to the *Github Pages* section which will inform you that your page is ready to be loaded, this can take some time.
+## __Forking a repository__
+1. Locate the Github repository that you would like to clone.
+2. Use the Fork button at the top right of the page under your account.
+3. After clicking on the Fork button you will now have a copy in your account.
+## __Making a local clone__
+1. Locate the Github repository that you would like to clone.
+2. Locate and click on the code button.
+3. Copy the link that is shown.
+4. in Gitpod, choose the directory where you like to store the repository.
+5. Type *Git clone* and paste the link that you received in step 3.
+6. Press the *Enter* key to finalise the process.
 # __Acknowledgements__
 - I would like to thank my Mentor Benjamin Kavanagh who has encouraged me throughout this project whilst providing incredibly helpful feedback and has always tried his best to ensure that I am working to my full potential, his experience in the field has been priceless.
