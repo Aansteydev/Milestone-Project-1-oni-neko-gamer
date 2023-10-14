@@ -68,10 +68,10 @@ Creater Goals
 
     Returning visitor goals,
     - As a returning visitor I want to be able to engage with the websites author.
-    - I would also like to be able to view more work in the near future.
+    - I would also like to be able to view more of their work in the near future.
  
-      Unfortunately none of my friends or family are gamers so instead I have created a website that I would be excited to find and would be excited to contribute to or interactive with. I have tried to make the contents clear for people that aren't interested in the hobby in the hopes that it could become an introduction for them. I recieved feedback from family members, friends and my partner and the feedback has lead me to believe that I have acheived what I aimed to do. 
-    - 
+ Unfortunately none of my friends or family are gamers so instead I have created a website that I would be excited to find and would be excited to contribute to or interactive with. I have tried to make the contents clear for people that aren't interested in the hobby in the hopes that it could become an introduction for them. I recieved feedback from family members, friends and my partner and the feedback has lead me to believe that I have acheived what I aimed to do. 
+ 
 # __Scope__
 ## __Encourage and allow user engagement__
 - To attain more readers to the blog.
@@ -202,8 +202,7 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
   
   # __Testing__
   ---
-  Testing user stories
-  - As a first time visitor I want to be able to understand the theme of the webpage without having to search for it.
+  Testing user stories [User stories](https://www.dropbox.com/scl/fi/rms44etl1h5hla4b0csbz/Milestone-Project-1-User-stories.pdf?rlkey=9fndp1ytfjz7ayzglssi3ampy&dl=0)
   ## __Further Testing__
   ---
   - The project was tested through Google Chrome using the built in Develeper tools function to test the sites compatability on different devices with varying screen sizes succesfully.
