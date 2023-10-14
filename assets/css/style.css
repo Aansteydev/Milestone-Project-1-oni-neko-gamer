@@ -353,7 +353,9 @@ body .h6 {
     float: right;
     color: #61777f;
 }
-
+.fa-github:hover{
+    color: green;
+}
 /*https: //stackoverflow.com/questions/70930827/footer-taking-up-alot-of-blank-space-when-at-the-bottom-of-page*/
 .body {
     min-height: 100vh;
