@@ -231,5 +231,14 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
       - [preview page results](assets/images/preview-w3c.png)
       - [subscribe page results](assets/images/subscribe-w3c.png)
 ---
+# __Known Bugs and Fixes__
+- Fixed error with images on the preview page not appearing correctly.
+  - added bootstrap code "col-md-4 col-12" to ensure that the images flowed consistently.
+- Fixed error regarding Octocat image no longer working as a link for the Github repository.
+  -Fixed spelling error in code.
+- Fixed issue with the form on the subscribe page not displaying correctly on mobile which caused the form and button to be unaligned.
+  - Issue fixed by changing the height of the suggestion box from 120px to 242px.
+- fixed issue with the footer moving vertically on some screen sizes which lead to white space at the bottom of the page.
+  - The issue was fixed by adjusting the view height of the subscribe page.    
 # __Acknowledgements__
 - I would like to thank my Mentor Benjamin Kavanagh who has encouraged me throughout this project whilst providing incredibly helpful feedback and has always tried his best to ensure that I am working to my full potential, his experience in the field has been priceless.
