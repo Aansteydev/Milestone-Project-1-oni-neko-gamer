@@ -52,7 +52,7 @@ All five of the planes represent the indivual planning elements and they will al
 # __Strategy__ 
 ## __Creator Stories__
 Creater Goals
--To make an asethetically appealing website which is easy to identify as a unique brand.
+- To make an asethetically appealing website which is easy to identify as a unique brand.
 - The site needs to be as user friendly as possible with clear seperation of pages.
 - As a creator it is important to me that the user is engaged and interested by the sites content.
 - All of the content must flow coherently and with purpose.
@@ -120,8 +120,8 @@ Creater Goals
 - Express a deep understanding of the subject matter.
 - Create new regular visitors to the site.
 ## __Subscribe__
--Form for submitting details for updates and requests.
--Large image above the footer.
+- Form for submitting details for updates and requests.
+- Large image above the footer.
 ## __User Goal__
 - Ease of use for the user.
 - Clear instructions.
@@ -176,7 +176,6 @@ The Navbar has been placed on every single page to help the user navigate the we
 The footer has followed the same color scheme as the logo by using the same shade of Yellow(#FAFA03) the footer includes Copyright information, a link to email me and a link to the project on Github. The main reason for picking Yellow as the colour for the footer was to end the page with a familiar colour and one that will brighten up the bottom of the page instead of having a large chunk of Grey space. The space between the end of the content and the beginning of the footer is taken up by images on every single page to break up the page and to retain the users attention. 
 ## __Subscription Form__
 I created a simple form for people to use to subscribe to the website but it is also for writers to reach out and contact Oni Neko Gamer to talk about writing community features and reviews for the website. The form doesn't post when submitted but instead the user is greeted by a modal which thanks them for subscribing to the page and then the form resets. 
-
 
 # __Future improvements__
 ---
