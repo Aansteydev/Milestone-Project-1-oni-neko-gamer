@@ -201,7 +201,7 @@ The use of CAPTCHA protection will be implemented in the future to prevent bot a
   
   # __Testing__
   ---
-  Testing user stories [User stories](https://www.dropbox.com/scl/fi/rms44etl1h5hla4b0csbz/Milestone-Project-1-User-stories.pdf?rlkey=9fndp1ytfjz7ayzglssi3ampy&dl=0)
+  Testing [User stories](https://www.dropbox.com/scl/fi/rms44etl1h5hla4b0csbz/Milestone-Project-1-User-stories.pdf?rlkey=9fndp1ytfjz7ayzglssi3ampy&dl=0)
   ## __Further Testing__
   ---
   - The project was tested through Google Chrome using the built in Develeper tools function to test the sites compatability on different devices with varying screen sizes succesfully.
